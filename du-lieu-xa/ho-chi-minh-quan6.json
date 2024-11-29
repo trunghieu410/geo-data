@@ -1,0 +1,598 @@
+{
+  "type": "FeatureCollection",
+  "name": "ho-chi-minh-quan6",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "tinh": "HoChiMinh",
+        "huyen": "Quận6",
+        "xa_phuong": "Phường1"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                106.6538,
+                10.7488
+              ],
+              [
+                106.655,
+                10.7461
+              ],
+              [
+                106.6495,
+                10.7429
+              ],
+              [
+                106.6481,
+                10.7479
+              ],
+              [
+                106.6538,
+                10.7488
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tinh": "HoChiMinh",
+        "huyen": "Quận6",
+        "xa_phuong": "Phường10"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                106.6211,
+                10.7341
+              ],
+              [
+                106.6225,
+                10.7434
+              ],
+              [
+                106.6326,
+                10.7427
+              ],
+              [
+                106.6344,
+                10.7409
+              ],
+              [
+                106.6344,
+                10.7335
+              ],
+              [
+                106.6272,
+                10.7298
+              ],
+              [
+                106.6277,
+                10.7316
+              ],
+              [
+                106.6241,
+                10.7315
+              ],
+              [
+                106.6244,
+                10.7357
+              ],
+              [
+                106.6211,
+                10.7341
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tinh": "HoChiMinh",
+        "huyen": "Quận6",
+        "xa_phuong": "Phường11"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                106.6225,
+                10.7434
+              ],
+              [
+                106.6231,
+                10.7451
+              ],
+              [
+                106.6398,
+                10.7492
+              ],
+              [
+                106.6395,
+                10.7451
+              ],
+              [
+                106.6344,
+                10.7409
+              ],
+              [
+                106.6326,
+                10.7427
+              ],
+              [
+                106.6225,
+                10.7434
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tinh": "HoChiMinh",
+        "huyen": "Quận6",
+        "xa_phuong": "Phường12"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                106.6231,
+                10.7451
+              ],
+              [
+                106.6369,
+                10.7548
+              ],
+              [
+                106.6398,
+                10.7492
+              ],
+              [
+                106.6231,
+                10.7451
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tinh": "HoChiMinh",
+        "huyen": "Quận6",
+        "xa_phuong": "Phường13"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                106.6238,
+                10.7457
+              ],
+              [
+                106.6249,
+                10.759
+              ],
+              [
+                106.6324,
+                10.7563
+              ],
+              [
+                106.6345,
+                10.754
+              ],
+              [
+                106.6238,
+                10.7457
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tinh": "HoChiMinh",
+        "huyen": "Quận6",
+        "xa_phuong": "Phường14"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                106.6249,
+                10.759
+              ],
+              [
+                106.6241,
+                10.7624
+              ],
+              [
+                106.6248,
+                10.7607
+              ],
+              [
+                106.6342,
+                10.759
+              ],
+              [
+                106.6376,
+                10.7547
+              ],
+              [
+                106.6345,
+                10.754
+              ],
+              [
+                106.6324,
+                10.7563
+              ],
+              [
+                106.6249,
+                10.759
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tinh": "HoChiMinh",
+        "huyen": "Quận6",
+        "xa_phuong": "Phường2"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                106.6498,
+                10.7535
+              ],
+              [
+                106.6505,
+                10.7515
+              ],
+              [
+                106.6533,
+                10.7516
+              ],
+              [
+                106.6538,
+                10.7488
+              ],
+              [
+                106.6481,
+                10.7479
+              ],
+              [
+                106.6477,
+                10.7513
+              ],
+              [
+                106.6496,
+                10.7511
+              ],
+              [
+                106.6498,
+                10.7535
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tinh": "HoChiMinh",
+        "huyen": "Quận6",
+        "xa_phuong": "Phường3"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                106.6486,
+                10.7459
+              ],
+              [
+                106.6495,
+                10.7429
+              ],
+              [
+                106.6442,
+                10.7397
+              ],
+              [
+                106.6433,
+                10.7429
+              ],
+              [
+                106.6486,
+                10.7459
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tinh": "HoChiMinh",
+        "huyen": "Quận6",
+        "xa_phuong": "Phường4"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                106.6481,
+                10.7479
+              ],
+              [
+                106.6486,
+                10.7459
+              ],
+              [
+                106.6433,
+                10.7429
+              ],
+              [
+                106.6428,
+                10.7471
+              ],
+              [
+                106.6481,
+                10.7479
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tinh": "HoChiMinh",
+        "huyen": "Quận6",
+        "xa_phuong": "Phường5"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                106.64,
+                10.7467
+              ],
+              [
+                106.6398,
+                10.7492
+              ],
+              [
+                106.6424,
+                10.7498
+              ],
+              [
+                106.6475,
+                10.7496
+              ],
+              [
+                106.6481,
+                10.7479
+              ],
+              [
+                106.64,
+                10.7467
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tinh": "HoChiMinh",
+        "huyen": "Quận6",
+        "xa_phuong": "Phường6"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                106.6432,
+                10.7542
+              ],
+              [
+                106.6498,
+                10.7535
+              ],
+              [
+                106.6496,
+                10.7511
+              ],
+              [
+                106.6477,
+                10.7513
+              ],
+              [
+                106.6475,
+                10.7496
+              ],
+              [
+                106.6424,
+                10.7498
+              ],
+              [
+                106.6432,
+                10.7542
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tinh": "HoChiMinh",
+        "huyen": "Quận6",
+        "xa_phuong": "Phường7"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                106.6344,
+                10.7335
+              ],
+              [
+                106.6345,
+                10.7412
+              ],
+              [
+                106.636,
+                10.7388
+              ],
+              [
+                106.6433,
+                10.7429
+              ],
+              [
+                106.6442,
+                10.7397
+              ],
+              [
+                106.6344,
+                10.7335
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tinh": "HoChiMinh",
+        "huyen": "Quận6",
+        "xa_phuong": "Phường8"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                106.6345,
+                10.7412
+              ],
+              [
+                106.64,
+                10.7467
+              ],
+              [
+                106.6428,
+                10.7471
+              ],
+              [
+                106.6433,
+                10.7429
+              ],
+              [
+                106.636,
+                10.7388
+              ],
+              [
+                106.6345,
+                10.7412
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tinh": "HoChiMinh",
+        "huyen": "Quận6",
+        "xa_phuong": "Phường9"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                106.6376,
+                10.7547
+              ],
+              [
+                106.6432,
+                10.7542
+              ],
+              [
+                106.6424,
+                10.7498
+              ],
+              [
+                106.6398,
+                10.7492
+              ],
+              [
+                106.6376,
+                10.7547
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
