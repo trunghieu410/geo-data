@@ -12,7 +12,7 @@
       "type": "Feature",
       "properties": {
         "tinh": "HaNam",
-        "huyen": "PhủLy",
+        "huyen": "PhuLy",
         "xa_phuong": "ChâuSơn"
       },
       "geometry": {
@@ -81,7 +81,7 @@
       "type": "Feature",
       "properties": {
         "tinh": "HaNam",
-        "huyen": "PhủLy",
+        "huyen": "PhuLy",
         "xa_phuong": "DinhXá"
       },
       "geometry": {
@@ -190,7 +190,7 @@
       "type": "Feature",
       "properties": {
         "tinh": "HaNam",
-        "huyen": "PhủLy",
+        "huyen": "PhuLy",
         "xa_phuong": "HaiBàTrưng"
       },
       "geometry": {
@@ -231,7 +231,7 @@
       "type": "Feature",
       "properties": {
         "tinh": "HaNam",
-        "huyen": "PhủLy",
+        "huyen": "PhuLy",
         "xa_phuong": "KimBình"
       },
       "geometry": {
@@ -356,7 +356,7 @@
       "type": "Feature",
       "properties": {
         "tinh": "HaNam",
-        "huyen": "PhủLy",
+        "huyen": "PhuLy",
         "xa_phuong": "LamHa"
       },
       "geometry": {
@@ -461,7 +461,7 @@
       "type": "Feature",
       "properties": {
         "tinh": "HaNam",
-        "huyen": "PhủLy",
+        "huyen": "PhuLy",
         "xa_phuong": "LeHồngPhong"
       },
       "geometry": {
@@ -590,7 +590,7 @@
       "type": "Feature",
       "properties": {
         "tinh": "HaNam",
-        "huyen": "PhủLy",
+        "huyen": "PhuLy",
         "xa_phuong": "LiêmChính"
       },
       "geometry": {
@@ -707,7 +707,7 @@
       "type": "Feature",
       "properties": {
         "tinh": "HaNam",
-        "huyen": "PhủLy",
+        "huyen": "PhuLy",
         "xa_phuong": "LiêmChung"
       },
       "geometry": {
@@ -784,7 +784,7 @@
       "type": "Feature",
       "properties": {
         "tinh": "HaNam",
-        "huyen": "PhủLy",
+        "huyen": "PhuLy",
         "xa_phuong": "LiêmTiết"
       },
       "geometry": {
@@ -877,7 +877,7 @@
       "type": "Feature",
       "properties": {
         "tinh": "HaNam",
-        "huyen": "PhủLy",
+        "huyen": "PhuLy",
         "xa_phuong": "LiêmTuyền"
       },
       "geometry": {
@@ -974,7 +974,7 @@
       "type": "Feature",
       "properties": {
         "tinh": "HaNam",
-        "huyen": "PhủLy",
+        "huyen": "PhuLy",
         "xa_phuong": "LươngKhánhThiện"
       },
       "geometry": {
@@ -1015,7 +1015,7 @@
       "type": "Feature",
       "properties": {
         "tinh": "HaNam",
-        "huyen": "PhủLy",
+        "huyen": "PhuLy",
         "xa_phuong": "MinhKhai"
       },
       "geometry": {
@@ -1060,7 +1060,7 @@
       "type": "Feature",
       "properties": {
         "tinh": "HaNam",
-        "huyen": "PhủLy",
+        "huyen": "PhuLy",
         "xa_phuong": "PhuVân"
       },
       "geometry": {
@@ -1165,7 +1165,7 @@
       "type": "Feature",
       "properties": {
         "tinh": "HaNam",
-        "huyen": "PhủLy",
+        "huyen": "PhuLy",
         "xa_phuong": "QuangTrung"
       },
       "geometry": {
@@ -1262,7 +1262,7 @@
       "type": "Feature",
       "properties": {
         "tinh": "HaNam",
-        "huyen": "PhủLy",
+        "huyen": "PhuLy",
         "xa_phuong": "ThanhChâu"
       },
       "geometry": {
@@ -1355,7 +1355,7 @@
       "type": "Feature",
       "properties": {
         "tinh": "HaNam",
-        "huyen": "PhủLy",
+        "huyen": "PhuLy",
         "xa_phuong": "ThanhTuyền"
       },
       "geometry": {
@@ -1440,7 +1440,7 @@
       "type": "Feature",
       "properties": {
         "tinh": "HaNam",
-        "huyen": "PhủLy",
+        "huyen": "PhuLy",
         "xa_phuong": "TiênHải"
       },
       "geometry": {
@@ -1497,7 +1497,7 @@
       "type": "Feature",
       "properties": {
         "tinh": "HaNam",
-        "huyen": "PhủLy",
+        "huyen": "PhuLy",
         "xa_phuong": "TiênHiệp"
       },
       "geometry": {
@@ -1610,7 +1610,7 @@
       "type": "Feature",
       "properties": {
         "tinh": "HaNam",
-        "huyen": "PhủLy",
+        "huyen": "PhuLy",
         "xa_phuong": "TiênTân"
       },
       "geometry": {
@@ -1703,7 +1703,7 @@
       "type": "Feature",
       "properties": {
         "tinh": "HaNam",
-        "huyen": "PhủLy",
+        "huyen": "PhuLy",
         "xa_phuong": "TrầnHưngDao"
       },
       "geometry": {
@@ -1748,7 +1748,7 @@
       "type": "Feature",
       "properties": {
         "tinh": "HaNam",
-        "huyen": "PhủLy",
+        "huyen": "PhuLy",
         "xa_phuong": "TrịnhXá"
       },
       "geometry": {
